@@ -1,2 +1,1 @@
-# Kunafa
-Kunafa is a huge open source project to safe lives.
+# مشروع كنافة - لتعلم Git و GitHub
